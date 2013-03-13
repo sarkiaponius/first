@@ -3,7 +3,8 @@ import java.util.LinkedList;
 import java.util.Properties;
 import java.util.StringTokenizer;
 
-public class Parser {
+public class Parser 
+{
 	LinkedList<String> os;
 	LinkedList<String> oq;
 	String in;
