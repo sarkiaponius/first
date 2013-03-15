@@ -1,3 +1,4 @@
+package math;
 <<<<<<< HEAD
 public class Rational {
 	int num, den;
