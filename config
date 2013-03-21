@@ -1,0 +1,13 @@
+#no comment
+#Mon Jun 06 16:44:19 CEST 2011
+directory-archivi=/home/andrea/Desktop/guida/elab/complessi/
+#elenco-archivi=elenco-archivi.txt
+elenco-archivi=tutti-gli-istituti.txt
+directory-file-sql=/home/andrea/Desktop/guida/elab/sql/
+directory-repertori=/home/andrea/Desktop/guida/elab/repertori-divisi
+tabella-soggettiGG = SoggettiGG
+tabella-complessiGG = GuidaGenerale
+tabella-soggetti-complessiGG = GuidaGeneraleSoggettiGG
+file-insert-soggettiGG = soggettiGG.sql
+file-insert-guidageneralesoggettiGG = guidaGeneraleSoggettiGG.sql
+file-log = /home/andrea/Desktop/guida/elab/soggettiGG.log

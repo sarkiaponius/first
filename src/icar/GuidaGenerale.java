@@ -802,7 +802,7 @@ public class GuidaGenerale
 	public static void main(String[] args)
 	{
 		GuidaGenerale gg = new GuidaGenerale();
-		//gg.tabellaGuidaGenerale(new File(args[0]));
-		gg.tabellaSoggettiGG(new File(args[1]));
+		gg.tabellaGuidaGenerale(new File(args[0]));
+		//gg.tabellaSoggettiGG(new File(args[1]));
 	}
 }

@@ -1,0 +1,3266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complessi><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026747</unitid>
+        <unittitle>Comune</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. 27</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="15460000-17370000">1546-1737</unitdate>
+        <note type="numerounitadescr">
+          <p>147</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026740</num>
+              <unittitle label="fondiStrutturati">01fs@CONSIGLIO COLLATERALE</unittitle>
+            </item>
+            <item>
+              <num>GG0520026741</num>
+              <unittitle label="fondo">01fo@Cancelleria</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>28</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027702</unitid>
+        <unittitle>Segretariato</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 82</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18150000-18230000">1815-1819 e 1822-1823</unitdate>
+        <note type="numerounitadescr">
+          <p>1102</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027699</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato della polizia generale</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>67</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <otherfindaid>
+        <p>Rubrica onomastica 1917</p>
+      </otherfindaid>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026827</unitid>
+        <unittitle>Consulte</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. 39</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17840000-18050000">1784-1805</unitdate>
+        <note type="numerounitadescr">
+          <p>227</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026824</num>
+              <unittitle label="fondo">01fo@Delegazione della real giurisdizione</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>30</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027024</unitid>
+        <unittitle>Azienda farnesiana</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fascio 1</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17950000-17950000">1795</unitdate>
+        <note type="numerounitadescr">
+          <p>424</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026945</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo borbonico (1734-1806)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027006</num>
+              <unittitle label="fondo">01fo@Segreteria di Stato di casa reale</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>40</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520026622</unitid>
+        <unittitle>Gonzaga</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <unittitle type="integrazione">famiglia</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>pergg.  e fascc. pergamenacei 17</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="14580000-16140000">(1458-1614: secc. XVI, XVI 12, XVII 4); fasc. cartaceo 1 (1580-1582)</unitdate>
+        <note type="numerounitadescr">
+          <p>22</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026602</num>
+              <unittitle label="fondiStrutturati">01fs@DIPLOMATICO</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>16</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <otherfindaid>
+        <p>Elenco</p>
+      </otherfindaid>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0990150017</unitid>
+        <unittitle>Fiscali e adoe</unittitle>
+        <unitdate normal="16130000-18010000" era="ce" calendar="gregorian">1613-1801</unitdate>
+        <physdesc>voll. 10</physdesc>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026667</num>
+              <unittitle label="fondiStrutturati">01fs@REGIA CAMERA DELLA SOMMARIA</unittitle>
+            </item>
+            <item>
+              <num>GG0520026689</num>
+              <unittitle label="fondo">01fo@Patrimonio</unittitle>
+            </item>
+            <item>
+              <num>GG0520026695</num>
+              <unittitle label="serie">01se@Amministrazione del real patrimonio</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">20060830</date>
+          <persname role="operatore">Maas</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027632</unitid>
+        <unittitle>Sardegna, regia missione</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 6.</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18160000-18290000">1816-1829</unitdate>
+        <note type="numerounitadescr">
+          <p>1032</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027565</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027566</num>
+              <unittitle label="serie">01se@Legazioni e consolati</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>64</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520028128</unitid>
+        <unittitle>Sentenze arbitrali</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 4</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18150000-18650000">1815-1865</unitdate>
+        <note type="numerounitadescr">
+          <p>1528</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520028126</num>
+              <unittitle label="fondo">01fo@Gran corte civile di Napoli</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>83</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520028158</unitid>
+        <unittitle>Affari diversi</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 4</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18160000-18590000">1816-1859</unitdate>
+        <note type="numerounitadescr">
+          <p>1558</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520028137</num>
+              <unittitle label="fondo">01fo@Procura generale presso la gran corte civile di Napoli</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>84</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520027932</unitid>
+        <unittitle>Sottointendenza di Pozzuoli</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <note type="rinvio">
+          <p>vedi 
+            <ref linktype="simple" show="new" actuate="onrequest">
+              <extref>GG0520028205</extref>Sottoprefettura di Pozzuoli
+            </ref>.
+          </p>
+        </note>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <note type="numerounitadescr">
+          <p>1332</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>80</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026844</unitid>
+        <unittitle>Giunta per l'amministrazione dei letti delle reali truppe</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll.77</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17360000-18010000">1736-1801</unitdate>
+        <note type="numerounitadescr">
+          <p>244</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026833</num>
+              <unittitle label="fondo">01fo@Tesoreria generale</unittitle>
+            </item>
+            <item>
+              <num>GG0520026838</num>
+              <unittitle label="serie">01se@Tesoreria</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>31</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <otherfindaid>
+        <p>Inventario seconda metà sec. XIX.</p>
+      </otherfindaid>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027733</unitid>
+        <unittitle>Materia legislativa</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 107</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18240000-18600000">1824-1860</unitdate>
+        <note type="numerounitadescr">
+          <p>1133</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027722</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato di grazia e giustizia</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>68</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027915</unitid>
+        <unittitle>Passaporti</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 4</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18280000-18590000">1828-1859</unitdate>
+        <note type="numerounitadescr">
+          <p>1315</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027912</num>
+              <unittitle label="fondo">01fo@Sottointendenza di Castellammare (Castellammare di Stabia)</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>80</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026897</unitid>
+        <unittitle>Giunta degli approbandi o dei dottori</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>bb. 71</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17390000-18050000">1739-1805</unitdate>
+        <note type="numerounitadescr">
+          <p>297</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026895</num>
+              <unittitle label="fondo">01fo@Giunte</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>35</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027275</unitid>
+        <unittitle>Corsica</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci  5.</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18070000-18140000">1807-1814</unitdate>
+        <note type="numerounitadescr">
+          <p>675</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027219</num>
+              <unittitle label="periodizzazioneStorica">02ps@Periodo napoleonico</unittitle>
+            </item>
+            <item>
+              <num>GG0520027232</num>
+              <unittitle label="periodizzazioneStorica">03ps@Decennio francese (1806-1815)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027261</num>
+              <unittitle label="fondo">01fo@Ministero degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027262</num>
+              <unittitle label="serie">01se@Legazioni e consolati</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>51</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027735</unitid>
+        <unittitle>Architetti</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 6</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18480000-18610000">1848-1861</unitdate>
+        <note type="numerounitadescr">
+          <p>1135</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027722</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato di grazia e giustizia</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>68</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <scopecontent>
+        <p>domande di nomine</p>
+      </scopecontent>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027202</unitid>
+        <unittitle>Grande almirante</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 3</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="16460000-17830000">1646-1783</unitdate>
+        <note type="numerounitadescr">
+          <p>602</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026945</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo borbonico (1734-1806)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027201</num>
+              <unittitle label="fondo">01fo@Tribunale dell'ammiragliato e Consolato</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>46</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027827</unitid>
+        <unittitle>Creditori dei monasteri soppressi</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci  36</physdesc>
+        <note type="numerounitadescr">
+          <p>1227</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027824</num>
+              <unittitle label="fondo">01fo@Commissione liquidatrice del debito pubblico</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>72</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026770</unitid>
+        <unittitle>Notamenti</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. 152.</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="16100000-17350000">1610-1735</unitdate>
+        <note type="numerounitadescr">
+          <p>170</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026740</num>
+              <unittitle label="fondiStrutturati">01fs@CONSIGLIO COLLATERALE</unittitle>
+            </item>
+            <item>
+              <num>GG0520026760</num>
+              <unittitle label="fondo">01fo@Consiglio</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>28</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027994</unitid>
+        <unittitle>Atti di volontaria e onoraria giurisdizione</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. e fasci  326</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18170000-18600000">1817-1860</unitdate>
+        <note type="numerounitadescr">
+          <p>1394</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027946</num>
+              <unittitle label="fondiAccorpati">01fa@Uffici di conciliazione e Giudicati circondariali di Napoli</unittitle>
+            </item>
+            <item>
+              <num>GG0520027991</num>
+              <unittitle label="fondo">01fo@Ufficio di conciliazione e Giudicato circondariale di Napoli: Vicaria</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>81</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026901</unitid>
+        <unittitle>Giunta della caccia</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasc. 1</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17940000-17970000">1794-1797</unitdate>
+        <note type="numerounitadescr">
+          <p>301</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026895</num>
+              <unittitle label="fondo">01fo@Giunte</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>35</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520027383</unitid>
+        <unittitle>Giudicato di pace di Barra 
+          <emph>
+            <ref title="1" linktype="simple">Nel comune di Napoli</ref>
+          </emph>
+        </unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP042900">Giudicato di pace di Barra</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll.  e fasci  13</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18090000-18150000">(1809-1815)</unitdate>
+        <note type="numerounitadescr">
+          <p>783</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027219</num>
+              <unittitle label="periodizzazioneStorica">02ps@Periodo napoleonico</unittitle>
+            </item>
+            <item>
+              <num>GG0520027232</num>
+              <unittitle label="periodizzazioneStorica">03ps@Decennio francese (1806-1815)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027379</num>
+              <unittitle label="fondiAccorpati">01fa@Giudicati di pace</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>56</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+
+
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520026638</unitid>
+        <unittitle>Napoli, Società napoletana di Storia patria</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>pergg. 1.831</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="09870000-18390000">(987-1839: secc. X 4, XI 9, XII 116, XIII 308, XIV 218, XV 380, XVI 332, XVII 263, XVIII 153, XIX 13, s.d. 10, frammenti 25); vol. pergamenaceo 1 (sec. XVII).</unitdate>
+        <note type="numerounitadescr">
+          <p>38</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026602</num>
+              <unittitle label="fondiStrutturati">01fs@DIPLOMATICO</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>18</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <scopecontent>
+        <p>Il fondo è formato dalla raccolta costituita dagli archeologi e storici Salvatore e Giuseppe Maria Fusco, dai cui eredi fu acquistata dalla società di storia patria nel 1882, e da pergamene di provenienza diversa.</p>
+      </scopecontent>
+      <bibliography>
+        <p>BIBL.: N. PARISIO, Elenco delle pergamene già appartenenti alla famiglia Fusco (acquistate dalla società napoletana di Storia patria e depositate presso l'Archivio di Stato di Napoli), in Archivio storico per le province napoletane, VIII (1883), pp. 153-161, 332-338, XII (1887), pp. 156-164, 436-448, 705-709, 822-835, XIII (1888), pp. 161-172, XIV (1889), pp. 144-158, 353-373, 758-772, XV (1890), pp. 654-661, XVI (1881), pp. 665-671, XVIII (1893), pp. 538-555; Le pergamene della società napoletana di storia patria, parte I, Il fondo pergamenaceo del monastero di S. Maria della Grotta ed osservazioni sulle minuscole pregotiche dell'Italia meridionale, a cura di J. MAZZOLENI, parte II, Note di diplomatica sugli atti giudiziari, a cura di C. SALVATI, Napoli 1966; A. MONTANARO MARINELLI, Pergamene di Vitulano e Tocco del periodo normanno, ivi 1974.</p>
+      </bibliography>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520028161</unitid>
+        <unittitle>Domande per spese a credito</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fascio 1</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18160000-18320000">1816-1832</unitdate>
+        <note type="numerounitadescr">
+          <p>1561</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520028137</num>
+              <unittitle label="fondo">01fo@Procura generale presso la gran corte civile di Napoli</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>84</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520027365</unitid>
+        <unittitle>Protomedicato generale</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <note type="rinvio">
+          <p>vedi 
+            <ref linktype="simple" show="new" actuate="onrequest">
+              <extref>GG0520027881</extref>Restaurazione, Protomedicato generale
+            </ref>.
+          </p>
+        </note>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <note type="numerounitadescr">
+          <p>765</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027219</num>
+              <unittitle label="periodizzazioneStorica">02ps@Periodo napoleonico</unittitle>
+            </item>
+            <item>
+              <num>GG0520027232</num>
+              <unittitle label="periodizzazioneStorica">03ps@Decennio francese (1806-1815)</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>55</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026792</unitid>
+        <unittitle>Instrumentorum</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>vol. 1</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17050000-17250000">1705-1725</unitdate>
+        <note type="numerounitadescr">
+          <p>192</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026781</num>
+              <unittitle label="fondo">01fo@Supremo consiglio di Spagna in Vienna</unittitle>
+            </item>
+            <item>
+              <num>GG0520026785</num>
+              <unittitle label="serie">01se@Cancelleria</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>29</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027601</unitid>
+        <unittitle>Francoforte</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci  3</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18290000-18590000">1829-1859</unitdate>
+        <note type="numerounitadescr">
+          <p>1001</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027565</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027566</num>
+              <unittitle label="serie">01se@Legazioni e consolati</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>64</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027558</unitid>
+        <unittitle>Prefettura di polizia</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci  57</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18240000-18600000">1824-1860</unitdate>
+        <note type="numerounitadescr">
+          <p>958</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027549</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato della presidenza del consiglio dei ministri</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>63</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027095</unitid>
+        <unittitle>Piombino, Sora, Sessa</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fascio 1</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17960000-18030000">1796-1803</unitdate>
+        <note type="numerounitadescr">
+          <p>495</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026945</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo borbonico (1734-1806)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027037</num>
+              <unittitle label="fondo">01fo@Segreteria di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027038</num>
+              <unittitle label="serie">01se@Legazioni e consolati</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>41</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520027243</unitid>
+        <unittitle>Segreteria di Stato</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP041390">Segreteria di Stato, Napoli</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. 106</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18060000-18150000">(1806-1815)</unitdate>
+        <note type="numerounitadescr">
+          <p>643</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027219</num>
+              <unittitle label="periodizzazioneStorica">02ps@Periodo napoleonico</unittitle>
+            </item>
+            <item>
+              <num>GG0520027232</num>
+              <unittitle label="periodizzazioneStorica">03ps@Decennio francese (1806-1815)</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>50</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <bioghist>
+        <p>Istituita con i decreti 8 sett. 1806 
+          <emph>
+            <ref title="2" linktype="simple">Bullettino regno Napoli, 1806, nn. 165 e 166</ref>
+          </emph> la segreteria di Stato aveva il compito di redigere, tra l'altro, i processi verbali del consiglio di Stato. Il successivo decreto 31 dic. 1806 
+          <emph>
+            <ref title="3" linktype="simple">Ibid., 1806, n. 306</ref>
+          </emph> le attribuì anche funzioni in materia di stampa della collezione delle leggi e dei decreti.
+        </p>
+      </bioghist>
+      <otherfindaid>
+        <p>Elenco.</p>
+      </otherfindaid>
+
+
+
+
+
+
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026724</unitid>
+        <unittitle>Pagatore di Capodimonte</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 3</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17630000-17780000">1763-1778</unitdate>
+        <note type="numerounitadescr">
+          <p>124</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026667</num>
+              <unittitle label="fondiStrutturati">01fs@REGIA CAMERA DELLA SOMMARIA</unittitle>
+            </item>
+            <item>
+              <num>GG0520026705</num>
+              <unittitle label="fondo">01fo@Dipendenze della Sommaria</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>27</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520026867</unitid>
+        <unittitle>Gran corte della vicaria</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP022890">Gran corte della vicaria, Napoli</corpname>
+        </origination>
+        <origination>
+          <corpname authfilenumber="SP030063">Gran corte nazionale, Napoli</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 2.147</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="14000000-18080000">(sec. XV-1808)</unitdate>
+        <note type="numerounitadescr">
+          <p>267</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>32</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <bioghist>
+        <p>Magistratura di appello di tutte le corti del regno per le cause criminali e per quelle civilitrova la sua origine nella magna curia normanna. L'istituzione, ad opera di Carlo II d'Angiò, della corte vicaria, presieduta dal vicario del regno, portò in seguito alla fusione delle due corti con un sol capo e con la denominazione di gran corte della vicaria 
+          <emph>
+            <ref title="1" linktype="simple">R. PESCIONE, Corti di giustizia nell'Italia meridionale (dal periodo normanno all'epoca moderna), Milano 1924, pp. 24 e seguenti</ref>
+          </emph> 
+Di essa sono rimasti i riti o capitoli del regno, raccolta di ordinanze processuali pubblicata sotto Giovanna II. Questo tribunale divenne secondario dopo la creazione del sacro regio consiglio, che rivedeva i decreti della vicaria e decideva dopo aver udito la relazione del giudice di quest'ultima. Presiedeva la gran corte un reggente. Con prammatica 7 nov. 1798, le sole competenze giudiziarie restarono alla vicaria, il cui reggente fu detto presidente della gran corte, mentre prevenzione dei delitti e funzioni di polizia in genere passarono al direttore generale di polizia.
+        </p>
+      </bioghist>
+      <bibliography>
+        <p>BIBL.: Capitula regni utriusque Siciliae, ritus Magnae curiae vicariae et pragmaticae, doctissimi Andreae de Isernia, Bartholomei de Capua et aliorum illustrium iureconsultorum commentariis illustrata ..., II, Napoli 1773; G. M. MONTI, Le origini della gran corte della vicaria e le codificazioni dei suoi riti, in Annali del seminario giuridico-economico della r. università di Bari, 1928, parte II, pp. 76-205; A. ZENI, Gran corte della vicaria. Processetti dei decreti di preambolo, 1a serie, Inventario sommario cronologico con indice alfabetico, Napoli 1970.</p>
+      </bibliography>
+      <otherfindaid>
+        <p>Elenco, indice e inventario parziali; inventario sommario parziale a stampa.</p>
+      </otherfindaid>
+
+
+
+
+
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027406</unitid>
+        <unittitle>Varie</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll.  e fasci  3</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18090000-18140000">1809-1814</unitdate>
+        <note type="numerounitadescr">
+          <p>806</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027219</num>
+              <unittitle label="periodizzazioneStorica">02ps@Periodo napoleonico</unittitle>
+            </item>
+            <item>
+              <num>GG0520027232</num>
+              <unittitle label="periodizzazioneStorica">03ps@Decennio francese (1806-1815)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027379</num>
+              <unittitle label="fondiAccorpati">01fa@Giudicati di pace</unittitle>
+            </item>
+            <item>
+              <num>GG0520027403</num>
+              <unittitle label="fondo">01fo@Giudicato di pace di Napoli Avvocata</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>57</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027937</unitid>
+        <unittitle>Borderò di iscrizione</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 4.679</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18160000-18650000">1816-1865</unitdate>
+        <note type="numerounitadescr">
+          <p>1337</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027936</num>
+              <unittitle label="fondo">01fo@Conservazione delle ipoteche di Napoli</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>80</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027945</unitid>
+        <unittitle>Matricole</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <note type="numerounitadescr">
+          <p>1345</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027944</num>
+              <unittitle label="fondo">01fo@Carcere di Castel Capuano di Napoli</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>80</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <otherfindaid>
+        <p>Elenco</p>
+      </otherfindaid>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027062</unitid>
+        <unittitle>Firenze, mappe di cifra</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 2.</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="00000000-00000000">s.d</unitdate>
+        <note type="numerounitadescr">
+          <p>462</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026945</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo borbonico (1734-1806)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027037</num>
+              <unittitle label="fondo">01fo@Segreteria di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027038</num>
+              <unittitle label="serie">01se@Legazioni e consolati</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>41</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027135</unitid>
+        <unittitle>Interno, ministero</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fascio 1</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17870000-18150000">1787-1815</unitdate>
+        <note type="numerounitadescr">
+          <p>535</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026945</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo borbonico (1734-1806)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027037</num>
+              <unittitle label="fondo">01fo@Segreteria di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027125</num>
+              <unittitle label="serie">01se@Carte diverse</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>42</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondiStrutturati">
+      <did>
+        <unitid type="nrecord">GG0520026665</unitid>
+        <unittitle>CANCELLERIA ANGIOINA</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP022700">Cancelleria angioina, Napoli</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <note type="numerounitadescr">
+          <p>65</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>20</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <scopecontent>
+        <p>L'archivio - distrutto nel 1943, a causa dell'incendio appiccato dai tedeschi a villa Montesano in San Paolo Bel Sito presso Nola, dove era stato trasportato per misure di protezione antiaerea - era costituito da 375 registri in pergamena e 3 in carta; da 4 registri frammentari detti " registri nuovi "; da 66 volumi in carta, intitolati " fascicoli "; da 37 volumi di atti in pergamena, originali, detti " arche in pergamena " e da 21 volumi di atti in carta, pure originali, detti " arche in carta ".
+Dalla rovina si salvarono, per essere rimasti in sede, oltre a qualche frammento, i repertori del Sicola, del Chiarito, del Borrelli e tre volumi dei Notamenta di Carlo de Lellis 
+          <emph>
+            <ref title="1" linktype="simple">Cfr. R. FILANGIERI DI CANDIDA, Notamenti e repertori delle cancellerie napoletane compilati da Carlo de Lellis e da altri eruditi dei secoli XVI e XVII. Memoria..., in Atti della accademia pontaniana, s. II, XXXIII (1928), pp. 1-22</ref>
+          </emph> 
+Nel 1944 Riccardo Filangieri, soprintendente agli Archivi napoletani, nel desiderio di recuperare e raccogliere quanto era possibile reperire degli atti angioini perduti, elaborò e mise in atto un valido piano di ricostruzione dell'archivio angioino, attraverso originali, copie, manoscritti, microfilm e fotocopie esistenti nell'AS Napoli e altrove, trascritti, pubblicati o raccolti da studiosi italiani e stranieri di ogni tempo.
+sorse così presso l'AS Napoli l'ufficio della ricostruzione angioina, tuttora operante.
+I documenti e le notizie rinvenute vennero e vengono raggruppati nell'ordine e nelle serie dei registri, fascicoli e arche, in pergamena e in carta, secondo l'appartenenza rispecchiando così la struttura che la cancelleria aveva al momento della distruzione.
+L'accademia pontaniana, su proposta di Benedetto Croce, si assunse l'onere della pubblicazione. Il primo volume, I registri della cancelleria angioina ricostruiti da Riccardo Filangieri con la collaborazione degli archivisti napoletani, vide la luce a Napoli nel 1949; a tutt'oggi sono stati pubblicati 124 registri del regno di Carlo Id'Angiò nei volumi I-XXVII della raccolta, 19 registri del regno di Carlo II d'Angiò nei volumi XXVIII-XXX e 1 registro di Luigi III d'Angiò nel volume XXXIV 
+          <emph>
+            <ref title="1" linktype="simple">Si veda al riguardo la prefazione del Filangieri al primo volume</ref>
+          </emph> I registri pubblicati sono stati ricostruiti secondo la struttura e l'ordinamento prospettati da P. Durrieu, e con l'aiuto dell'Inventario di B. Capasso (cfr. infra, in bibliografia).
+        </p>
+      </scopecontent>
+
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520027841</unitid>
+        <unittitle>Amministrazione generale delle monete</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP067540">Amministrazione generale delle monete, Napoli</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. 355</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18110000-18610000">(1811 1861).</unitdate>
+        <note type="numerounitadescr">
+          <p>1241</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>74</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <bioghist>
+        <p>Organizzata dal decreto 26 lu. 1824 
+          <emph>
+            <ref title="1" linktype="simple">Collezione regno Due Sicilie, 1824, n. 1164</ref>
+          </emph> era diretta, a norma del medesimo decreto, dal reggente del banco delle Due Sicilie, il quale dipendeva dal ministero delle finanze.
+        </p>
+      </bioghist>
+      <otherfindaid>
+        <p>Elenco.</p>
+      </otherfindaid>
+
+
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520027866</unitid>
+        <unittitle>Deputazione dei teatri e spettacoli poi Soprintendenza dei teatri e spettacoli</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP041620">Soprintendenza generale dei teatri, Napoli</corpname>
+        </origination>
+        <origination>
+          <corpname authfilenumber="SP067610">Deputazione dei teatri e spettacoli poi Soprintendenza dei teatri e spettacoli, Napoli</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 132</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17950000-18860000">(1820-1860, con  docc. dal 1795 e fino al 1886)</unitdate>
+        <note type="numerounitadescr">
+          <p>1266</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>76</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <bioghist>
+        <p>successe alla commissione de' teatri e spettacoli del periodo murattiano a seguito di risoluzione sovrana del 2 apr. 1820; tale commissione, presieduta da un soprintendente generale, era stata istituita nell'ambito del ministero dell'interno con decreto 24 dic.1808 
+          <emph>
+            <ref title="1" linktype="simple">Bullettino regno Napoli, 1808, n. 243. Vedi anche successivo decreto 7 nov. 1811 (ibid., 1811, n. 1134)</ref>
+          </emph> La deputazione fu soppressa con decreto 5 apr. 1827 
+          <emph>
+            <ref title="2" linktype="simple">collezione regno Due Sicilie, 1827, n. 1348</ref>
+          </emph> ne ereditò le competenze la nuova soprintendenza, dipendente prima dal ministero dell'interno, poi da quelli degli affari ecclesiastici e della istruzione pubblica.
+        </p>
+      </bioghist>
+      <bibliography>
+        <p>BIBL.: B. CROCE, op. citata.</p>
+      </bibliography>
+      <otherfindaid>
+        <p>Elenco sec. XIX</p>
+      </otherfindaid>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0990150039</unitid>
+        <unittitle>Controne e Postiglione</unittitle>
+        <unitdate normal="17670000-18020000" era="ce" calendar="gregorian">1767-1802</unitdate>
+        <physdesc />
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026667</num>
+              <unittitle label="fondiStrutturati">01fs@REGIA CAMERA DELLA SOMMARIA</unittitle>
+            </item>
+            <item>
+              <num>GG0520026705</num>
+              <unittitle label="fondo">01fo@Dipendenze della Sommaria</unittitle>
+            </item>
+            <item>
+              <num>GG0520026734</num>
+              <unittitle label="serie">01se@Siti reali</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">20060830</date>
+          <persname role="operatore">Maas</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026872</unitid>
+        <unittitle>Processetti civili</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 1.981</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="14000000-18990000">secc.XV-XIX</unitdate>
+        <note type="numerounitadescr">
+          <p>272</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026867</num>
+              <unittitle label="fondo">01fo@Gran corte della vicaria</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>33</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <otherfindaid>
+        <p>Inventario per i primi 198 fasci.</p>
+      </otherfindaid>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520027521</unitid>
+        <unittitle>Supremo consiglio di cancelleria</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP067300">Supremo consiglio di cancelleria, Napoli</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci , regg.  e voll. 88</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18150000-18210000">(1815-1821)</unitdate>
+        <note type="numerounitadescr">
+          <p>921</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>60</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <bioghist>
+        <p>Istituito a seguito della legge 8 dic. 1816 
+          <emph>
+            <ref title="1" linktype="simple">collezione regno Due Sicilie, 1816, n. 565</ref>
+          </emph> " per la discussione e preparazione degli affari più importanti dello Stato prima di portarsi dai ministri alla sovrana decisione nel Consiglio di Stato ", organizzato dalla legge 22 dic. 1816 
+          <emph>
+            <ref title="2" linktype="simple">Ibid., 1816, n. 581</ref>
+          </emph> cui seguì il regolamento 24 marzo 1817 
+          <emph>
+            <ref title="3" linktype="simple">Ibid., 1817, n. 662</ref>
+          </emph> era diviso in tre camere :   giustizia ed affari ecclesiastici;  finanze, interno e polizia; guerra e marina. Le due prime camere, riunite, avevano il compito di risolvere i conflitti di attribuzione tra organi amministrativi ed organi giudiziari e di deliberare sui ricorsi contro le decisioni della corte dei conti. La seconda camera, inoltre, rilasciava i permessi per la stampa dei libri. organo consultivo presieduto dal ministro della cancelleria generale, esprimeva il suo parere in materia di redazione e interpretazione delle leggi e dei regolamenti, nonché in riferimento alla istituzione di corpi morali e opere pie, al regio exequatur, ad affari di polizia amministrativa, a domande di naturalizzazione, a ricorsi e abusi in materia ecclesiastica. La limitatezza di tali attribuzioni, accentuata dalla natura non vincolante dei pareri espressi, ma più ancora la dipendenza dal ministero della cancelleria generale costrinsero il consiglio a recitare un ruolo modesto tra le altre istituzioni dello Stato. Il consiglio, il cui archivio non riflette la descritta ripartizione istituzionale, fu abolito con decreto 29 mar. 1821 
+          <emph>
+            <ref title="4" linktype="simple">Ibid., 1821, n. 6</ref>
+          </emph> anche se già in regime costituzionale, con la soppressione del ministero della cancelleria avvenuta con decreto 22 lu. 1820 
+          <emph>
+            <ref title="5" linktype="simple">Ibid., 1820, n. 20</ref>
+          </emph> si era visto sottrarre varie attribuzioni 
+          <emph>
+            <ref title="6" linktype="simple">G. LANDI, op. cit., I, pp. 439 e seguenti</ref>
+          </emph>
+        </p>
+      </bioghist>
+      <bibliography>
+        <p>BIBL.: A. SALADINO, Il supremo consiglio di cancelleria del regno delle due Sicilie, in Studi in onore di Riccardo Filangieri, III, Napoli 1959, pp. 377-415.</p>
+      </bibliography>
+      <otherfindaid>
+        <p>Elenco 1950.</p>
+      </otherfindaid>
+
+
+
+
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027927</unitid>
+        <unittitle>Scuole nei comuni</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 14</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18070000-18610000">1807-1861</unitdate>
+        <note type="numerounitadescr">
+          <p>1327</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027912</num>
+              <unittitle label="fondo">01fo@Sottointendenza di Castellammare (Castellammare di Stabia)</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>80</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027892</unitid>
+        <unittitle>Ispezione</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 38</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18330000-18600000">1833-1860</unitdate>
+        <note type="numerounitadescr">
+          <p>1292</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027891</num>
+              <unittitle label="fondo">01fo@Officio topografico</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>78</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027112</unitid>
+        <unittitle>Svezia</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 8</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17240000-18040000">1724-1804</unitdate>
+        <note type="numerounitadescr">
+          <p>512</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026945</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo borbonico (1734-1806)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027037</num>
+              <unittitle label="fondo">01fo@Segreteria di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027038</num>
+              <unittitle label="serie">01se@Legazioni e consolati</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>42</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027746</unitid>
+        <unittitle>Espedienti di consiglio</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 693</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18150000-18540000">1815-1854</unitdate>
+        <note type="numerounitadescr">
+          <p>1146</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027744</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato degli affari ecclesiastici</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>68</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027177</unitid>
+        <unittitle>Processi</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. 911</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17410000-18060000">1741-1806</unitdate>
+        <note type="numerounitadescr">
+          <p>577</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026945</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo borbonico (1734-1806)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027170</num>
+              <unittitle label="fondo">01fo@Tribunale misto</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>44</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027893</unitid>
+        <unittitle>Direzione</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 21 e regg. 6</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18220000-18600000">1822-1860</unitdate>
+        <note type="numerounitadescr">
+          <p>1293</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027891</num>
+              <unittitle label="fondo">01fo@Officio topografico</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>78</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520028099</unitid>
+        <unittitle>Giudicato circondariale di Torre Annunziata</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP077640">Giudicato circondariale di Torre Annunziata</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll.  e fasci  62</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18150000-18670000">(1815-1867)</unitdate>
+        <note type="numerounitadescr">
+          <p>1499</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027995</num>
+              <unittitle label="fondiAccorpati">01fa@Giudicati circondariali</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>82</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+
+
+
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027415</unitid>
+        <unittitle>Sentenze penali</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. 2</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18140000-18150000">1814-1815</unitdate>
+        <note type="numerounitadescr">
+          <p>815</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027219</num>
+              <unittitle label="periodizzazioneStorica">02ps@Periodo napoleonico</unittitle>
+            </item>
+            <item>
+              <num>GG0520027232</num>
+              <unittitle label="periodizzazioneStorica">03ps@Decennio francese (1806-1815)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027379</num>
+              <unittitle label="fondiAccorpati">01fa@Giudicati di pace</unittitle>
+            </item>
+            <item>
+              <num>GG0520027413</num>
+              <unittitle label="fondo">01fo@Giudicato di pace di Napoli Montecalvario</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>57</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027673</unitid>
+        <unittitle>Legazioni e consolati vari</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 8.</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18150000-18600000">1815-1860</unitdate>
+        <note type="numerounitadescr">
+          <p>1073</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027565</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027656</num>
+              <unittitle label="serie">01se@Carte diverse</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>64</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027057</unitid>
+        <unittitle>Civitavecchia</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 5</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="17390000-18140000">1739-1814</unitdate>
+        <note type="numerounitadescr">
+          <p>457</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026945</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo borbonico (1734-1806)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027037</num>
+              <unittitle label="fondo">01fo@Segreteria di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027038</num>
+              <unittitle label="serie">01se@Legazioni e consolati</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>41</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="fonds" encodinganalog="fondo">
+      <did>
+        <unitid type="nrecord">GG0520027895</unitid>
+        <unittitle>Maggioria generale della real marina</unittitle>
+        <unittitle type="qualificasede">Napoli</unittitle>
+        <origination>
+          <corpname authfilenumber="SP067700">Maggioria generale della real marina, Napoli</corpname>
+        </origination>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 343 e pandette 5</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18220000-18610000">(1822-1861)</unitdate>
+        <note type="numerounitadescr">
+          <p>1295</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>78</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+      <bioghist>
+        <p>A capo dell'ufficio vi era il maggior generale, donde il nome di maggioria</p>
+      </bioghist>
+      <scopecontent>
+        <p>Il fondo ha subito perdite a seguito di eventi bellici</p>
+      </scopecontent>
+      <otherfindaid>
+        <p>Elenco 1959</p>
+      </otherfindaid>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027378</unitid>
+        <unittitle>Denunce</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci  28</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18090000-18150000">1809-1815</unitdate>
+        <note type="numerounitadescr">
+          <p>778</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027219</num>
+              <unittitle label="periodizzazioneStorica">02ps@Periodo napoleonico</unittitle>
+            </item>
+            <item>
+              <num>GG0520027232</num>
+              <unittitle label="periodizzazioneStorica">03ps@Decennio francese (1806-1815)</unittitle>
+            </item>
+            <item>
+              <num>GG0520027375</num>
+              <unittitle label="fondo">01fo@Conservazione delle ipoteche di Napoli</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>56</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027667</unitid>
+        <unittitle>Finanza, ministero</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>fasci 22</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="18150000-18600000">1815-1860</unitdate>
+        <note type="numerounitadescr">
+          <p>1067</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027565</num>
+              <unittitle label="fondo">01fo@Segreteria e ministero di Stato degli affari esteri</unittitle>
+            </item>
+            <item>
+              <num>GG0520027656</num>
+              <unittitle label="serie">01se@Carte diverse</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>64</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520026677</unitid>
+        <unittitle>Provisionum</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <physdesc>voll. 27</physdesc>
+        <unitdate era="ce" calendar="gregorian" normal="14820000-15960000">1482-1596</unitdate>
+        <note type="numerounitadescr">
+          <p>77</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026663</num>
+              <unittitle label="periodizzazioneStorica">02ps@Antichi regimi</unittitle>
+            </item>
+            <item>
+              <num>GG0520026664</num>
+              <unittitle label="periodizzazioneStorica">03ps@Periodo angioino (1265-1442) Periodo aragonese (1442-1505) Viceregno (1505-1734)</unittitle>
+            </item>
+            <item>
+              <num>GG0520026667</num>
+              <unittitle label="fondiStrutturati">01fs@REGIA CAMERA DELLA SOMMARIA</unittitle>
+            </item>
+            <item>
+              <num>GG0520026675</num>
+              <unittitle label="fondo">01fo@Ruote</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>24</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c><c xmlns:xw="http://www.3di.it/ns/xw-200303121136" level="series" encodinganalog="serie">
+      <did>
+        <unitid type="nrecord">GG0520027879</unitid>
+        <unittitle>Naufragi</unittitle>
+        <repository>
+          <corpname>ARCHIVIO DI STATO DI NAPOLI</corpname>
+        </repository>
+        <unitdate era="ce" calendar="gregorian" normal="17690000-18660000">1769-1866</unitdate>
+        <note type="numerounitadescr">
+          <p>1279</p>
+        </note>
+        <note type="genealogia">
+          <list>
+            <item>
+              <num>GG0520026601</num>
+              <unittitle label="istituto">ARCHIVIO DI STATO DI NAPOLI</unittitle>
+            </item>
+            <item>
+              <num>GG0520026662</num>
+              <unittitle label="periodizzazioneStorica">01ps@I. STATI PREUNITARI</unittitle>
+            </item>
+            <item>
+              <num>GG0520027490</num>
+              <unittitle label="periodizzazioneStorica">02ps@Restaurazione</unittitle>
+            </item>
+            <item>
+              <num>GG0520027867</num>
+              <unittitle label="fondo">01fo@Supremo magistrato e Soprintendenza generale di salute</unittitle>
+            </item>
+          </list>
+        </note>
+      </did>
+      <altformavail type="stampa">
+        <note type="num_vol">
+          <p>III</p>
+        </note>
+        <note type="num_pag">
+          <p>76</p>
+        </note>
+      </altformavail>
+      <altformavail type="pdf">
+        <p>Napoli</p>
+      </altformavail>
+      <processinfo>
+        <p>
+          <date type="modifica" era="ce" calendar="gregorian">19991030</date>
+          <persname role="operatore">Gestore</persname>
+        </p>
+      </processinfo>
+    </c></complessi>
