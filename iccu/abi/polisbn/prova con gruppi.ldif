@@ -1,0 +1,1203 @@
+dn: cn=LAN Administration
+objectclass: top
+objectclass: groupOfNames
+cn: LAN Administration
+mozillaNickname: lan
+description: Amministrazione della LAN
+
+dn: cn=Capi laboratorio
+objectclass: top
+objectclass: groupOfNames
+cn: Capi laboratorio
+mozillaNickname: capilab
+member: cn=Andrea Giuliano,mail=andrea.giuliano@beniculturali.it
+member: cn=Gisella De Caro,mail=g.decaro@iccu.sbn.it
+member: cn=Claudia Leoncini,mail=c.leoncini@iccu.sbn.it
+member: cn=Giuliana Sgambati,mail=gi.sgambati@iccu.sbn.it
+
+dn: cn=Gruppo locale TEL
+objectclass: top
+objectclass: groupOfNames
+cn: Gruppo locale TEL
+
+dn: cn=GLT esteso
+objectclass: top
+objectclass: groupOfNames
+cn: GLT esteso
+description: GLT integrato con personale esperto di EDIT16
+
+dn: cn=tutti
+objectclass: top
+objectclass: groupOfNames
+cn: tutti
+mozillaNickname: tutti
+description: Tutto il personale in servizio
+member: cn=Andrea Giuliano,mail=a.giuliano@iccu.sbn.it
+member: cn=Anna Degennaro,mail=a.degennaro@iccu.sbn.it
+member: cn=Anna Maria Ficoccilli,mail=am.ficoccilli@iccu.sbn.it
+member: cn=Annamaria Mandillo,mail=a.mandillo@iccu.sbn.it
+member: cn=Antonella Corradi,mail=a.corradi@iccu.sbn.it
+member: cn=Antonella Cossu,mail=a.cossu@iccu.sbn.it
+member: cn=Assunta Tozzi,mail=a.tozzi@iccu.sbn.it
+member: cn=Carla Di Loreto,mail=c.diloreto@iccu.sbn.it
+member: cn=Valeria Di Vita Cafasso,mail=v.divitacafasso@iccu.sbn.it
+member: cn=Claudia Leoncini,mail=c.leoncini@iccu.sbn.it
+member: cn=Cristina Magliano,mail=c.magliano@iccu.sbn.it
+member: cn=Cristina Mataloni,mail=c.mataloni@iccu.sbn.it
+member: cn=Daniela Gigli,mail=d.gigli@iccu.sbn.it
+member: cn=Daniela Napoletano,mail=d.napoletano@iccu.sbn.it
+member: cn=Donatella Roveri,mail=d.roveri@iccu.sbn.it
+member: cn=Erina Pasquali,mail=e.pasquali@iccu.sbn.it
+member: cn=Franca Cerone,mail=f.cerone@iccu.sbn.it
+member: cn=Francesca Trasselli,mail=f.trasselli@iccu.sbn.it
+member: cn=Franco Berrettoni,mail=f.berrettoni@iccu.sbn.it
+member: cn=Gabriella Contardi,mail=g.contardi@iccu.sbn.it
+member: cn=Gabriella Pelosio,mail=g.pelosio@iccu.sbn.it
+member: cn=Gisella De Caro,mail=g.decaro@iccu.sbn.it
+member: cn=Giuliana Sgambati,mail=gi.sgambati@iccu.sbn.it
+member: cn=Giulio Baldoni,mail=g.baldoni@iccu.sbn.it
+member: cn=Isabella Ranieri,mail=i.ranieri@iccu.sbn.it
+member: cn=Laura Bonanni,mail=l.bonanni@iccu.sbn.it
+member: cn=Laura Ciancio,mail=l.ciancio@iccu.sbn.it
+member: cn=Lucia Basile,mail=l.basile@iccu.sbn.it
+member: cn=Lucia Merolla,mail=l.merolla@iccu.sbn.it
+member: cn=Marco Paoli,mail=m.paoli@iccu.sbn.it
+member: cn=Margherita Aste,mail=m.aste@iccu.sbn.it
+member: cn=Maria Delfino,mail=m.delfino@iccu.sbn.it
+member: cn=Maria Lucia Di Geso,mail=l.digeso@iccu.sbn.it
+member: cn=Maria Maddalena Corciulo,mail=mm.corciulo@iccu.sbn.it
+member: cn=Maria Pia Barbieri,mail=mp.barbieri@iccu.sbn.it
+member: cn=Varo Vecchiarelli,mail=v.vecchiarelli@iccu.sbn.it
+member: cn=Mario Sebastiani,mail=m.sebastiani@iccu.sbn.it
+member: cn=Massimo Menna,mail=m.menna@iccu.sbn.it
+member: cn=Massimo Nonni,mail=m.nonni@iccu.sbn.it
+member: cn=Noemi Ettorre,mail=n.ettorre@iccu.sbn.it
+member: cn=Ornella Denza,mail=o.denza@iccu.sbn.it
+member: cn=Ornella Napoli,mail=o.napoli@iccu.sbn.it
+member: cn=Paola Moretti,mail=p.moretti@iccu.sbn.it
+member: cn=Patrizia Martini,mail=p.martini@iccu.sbn.it
+member: cn=Patrizia Nuccetelli,mail=p.nuccetelli@iccu.sbn.it
+member: cn=Raffaele Antonuccio,mail=r.antonuccio@iccu.sbn.it
+member: cn=Rita Tucci,mail=r.tucci@iccu.sbn.it
+member: cn=Roberta Rizzoni,mail=r.rizzoni@iccu.sbn.it
+member: cn=Roberto Mauro,mail=r.mauro@iccu.sbn.it
+member: cn=Rosanna Mancini,mail=r.mancini@iccu.sbn.it
+member: cn=Rosaria Boccadifuoco,mail=r.boccadifuoco@iccu.sbn.it
+member: cn=Rossella Modica,mail=r.modica@iccu.sbn.it
+member: cn=Silviana Simonelli,mail=s.simonelli@iccu.sbn.it
+member: cn=Stefania Vita,mail=s.vita@iccu.sbn.it
+member: cn=Tiziana Brunetti,mail=t.brunetti@iccu.sbn.it
+member: cn=Vilma Gidaro,mail=v.gidaro@iccu.sbn.it
+member: cn=Vitaliana Vitale,mail=v.vitale@iccu.sbn.it
+member: cn=Vittoria Tola,mail=v.tola@iccu.sbn.it
+member: cn=Maria Rosaria Servello,mail=r.servello@iccu.sbn.it
+member: cn=Agata Procacci,mail=a.procacci@iccu.sbn.it
+member: cn=Patrizia Monticelli,mail=p.monticelli@iccu.sbn.it
+member: cn=Simonetta Migliardi,mail=s.migliardi@iccu.sbn.it
+member: cn=Cinzia Parsi,mail=c.parsi@iccu.sbn.it
+member: cn=Costanza Messana,mail=c.messana@iccu.sbn.it
+member: cn=Elena Ravelli,mail=e.ravelli@iccu.sbn.it
+member: cn=Franco Matteucci,mail=f.matteucci@iccu.sbn.it
+member: cn=Gabriella De Panicis,mail=g.depanicis@iccu.sbn.it
+member: cn=Lea Salvi,mail=l.salvi@iccu.sbn.it
+member: cn=Loriana Carmina,mail=l.carmina@iccu.sbn.it
+member:: Y249RW56YSBNdWRhbsOyLG1haWw9ZS5tdWRhbm9AaWNjdS5zYm4uaXQ=
+
+dn: cn=Andrea Giuliano,mail=a.giuliano@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Andrea
+sn: Giuliano
+cn: Andrea Giuliano
+mail: a.giuliano@iccu.sbn.it
+modifytimestamp: 0
+telephoneNumber: 403
+
+dn: cn=Anna Degennaro,mail=a.degennaro@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Anna
+sn: Degennaro
+cn: Anna Degennaro
+mail: a.degennaro@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Anna Maria Ficoccilli,mail=am.ficoccilli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Anna Maria
+sn: Ficoccilli
+cn: Anna Maria Ficoccilli
+mail: am.ficoccilli@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Annamaria Mandillo,mail=a.mandillo@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Annamaria
+sn: Mandillo
+cn: Annamaria Mandillo
+mail: a.mandillo@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Antonella Corradi,mail=a.corradi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Antonella
+sn: Corradi
+cn: Antonella Corradi
+mail: a.corradi@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Antonella Cossu,mail=a.cossu@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+sn: Cossu
+cn: Antonella Cossu
+mail: a.cossu@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Assunta Tozzi,mail=a.tozzi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Assunta
+sn: Tozzi
+cn: Assunta Tozzi
+mail: a.tozzi@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Carla Di Loreto,mail=c.diloreto@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Carla
+sn: Di Loreto
+cn: Carla Di Loreto
+mail: c.diloreto@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Cecilia Cuturi,mail=c.cuturi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Cecilia
+sn: Cuturi
+cn: Cecilia Cuturi
+mail: c.cuturi@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Claudia Leoncini,mail=c.leoncini@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Claudia
+sn: Leoncini
+cn: Claudia Leoncini
+mail: c.leoncini@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Cristina Magliano,mail=c.magliano@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Cristina
+sn: Magliano
+cn: Cristina Magliano
+mail: c.magliano@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Cristina Mataloni,mail=c.mataloni@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Cristina
+sn: Mataloni
+cn: Cristina Mataloni
+mail: c.mataloni@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Daniela Gigli,mail=d.gigli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Daniela
+sn: Gigli
+cn: Daniela Gigli
+mail: d.gigli@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Daniela Napoletano,mail=d.napoletano@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Daniela 
+sn: Napoletano
+cn: Daniela Napoletano
+mail: d.napoletano@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Donatella Roveri,mail=d.roveri@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Donatella
+sn: Roveri
+cn: Donatella Roveri
+mail: d.roveri@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Erina Pasquali,mail=e.pasquali@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Erina 
+sn: Pasquali
+cn: Erina Pasquali
+mail: e.pasquali@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Franca Cerone,mail=f.cerone@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Franca
+sn: Cerone
+cn: Franca Cerone
+mail: f.cerone@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Francesca Trasselli,mail=f.trasselli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Francesca 
+sn: Trasselli
+cn: Francesca Trasselli
+mail: f.trasselli@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Franco Berrettoni,mail=f.berrettoni@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Franco 
+sn: Berrettoni
+cn: Franco Berrettoni
+mail: f.berrettoni@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Gabriella Contardi,mail=g.contardi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Gabriella
+sn: Contardi
+cn: Gabriella Contardi
+mail: g.contardi@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Gabriella Pelosio,mail=g.pelosio@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Gabriella
+sn: Pelosio
+cn: Gabriella Pelosio
+mail: g.pelosio@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Gisella De Caro,mail=g.decaro@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Gisella
+sn: De Caro
+cn: Gisella De Caro
+mail: g.decaro@iccu.sbn.it
+modifytimestamp: 0
+o: ss
+
+dn: cn=Giuliana Sgambati,mail=gi.sgambati@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Giuliana
+sn: Sgambati
+cn: Giuliana Sgambati
+mail: gi.sgambati@iccu.sbn.it
+modifytimestamp: 0
+telephoneNumber: 418
+title: Dottoressa
+ou: Galleria nazionale di arte moderna
+
+dn: cn=Giulio Baldoni,mail=g.baldoni@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Giulio 
+sn: Baldoni
+cn: Giulio Baldoni
+mail: g.baldoni@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Isabella Ranieri,mail=i.ranieri@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Isabella 
+sn: Ranieri
+cn: Isabella Ranieri
+mail: i.ranieri@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Laura Bonanni,mail=l.bonanni@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Laura
+sn: Bonanni
+cn: Laura Bonanni
+mail: l.bonanni@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Laura Ciancio,mail=l.ciancio@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Laura 
+sn: Ciancio
+cn: Laura Ciancio
+mail: l.ciancio@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Lucia Basile,mail=l.basile@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Lucia 
+sn: Basile
+cn: Lucia Basile
+mail: l.basile@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Lucia Merolla,mail=l.merolla@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Lucia 
+sn: Merolla
+cn: Lucia Merolla
+mail: l.merolla@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Marco Paoli,mail=m.paoli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Marco
+sn: Paoli
+cn: Marco Paoli
+mail: m.paoli@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Margherita Aste,mail=m.aste@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Margherita 
+sn: Aste
+cn: Margherita Aste
+mail: m.aste@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Maria Delfino,mail=m.delfino@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria
+sn: Delfino
+cn: Maria Delfino
+mail: m.delfino@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Maria Lucia Di Geso,mail=l.digeso@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Lucia
+sn: Di Geso 
+cn: Maria Lucia Di Geso
+mail: l.digeso@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Maria Maddalena Corciulo,mail=mm.corciulo@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Maddalena 
+sn: Corciulo
+cn: Maria Maddalena Corciulo
+mail: mm.corciulo@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Maria Pia Barbieri,mail=mp.barbieri@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Pia
+sn: Barbieri
+cn: Maria Pia Barbieri
+mail: mp.barbieri@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Maria Rosaria Servello,mail=r.servello@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Rosaria 
+sn: Servello 
+cn: Maria Rosaria Servello
+mail: r.servello@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Mario Sebastiani,mail=m.sebastiani@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Mario
+sn: Sebastiani
+cn: Mario Sebastiani
+mail: m.sebastiani@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Massimo Menna,mail=m.menna@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Massimo 
+sn: Menna
+cn: Massimo Menna
+mail: m.menna@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Massimo Nonni,mail=m.nonni@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Massimo
+sn: Nonni
+cn: Massimo Nonni
+mail: m.nonni@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Noemi Ettorre,mail=n.ettorre@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Noemi 
+sn: Ettorre
+cn: Noemi Ettorre
+mail: n.ettorre@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Ornella Denza,mail=o.denza@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Ornella 
+sn: Denza
+cn: Ornella Denza
+mail: o.denza@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Ornella Napoli,mail=o.napoli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Ornella 
+sn: Napoli
+cn: Ornella Napoli
+mail: o.napoli@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Paola Moretti,mail=p.moretti@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Paola 
+sn: Moretti
+cn: Paola Moretti
+mail: p.moretti@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Patrizia Martini,mail=p.martini@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Patrizia
+sn: Martini
+cn: Patrizia Martini
+mail: p.martini@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Patrizia Nuccetelli,mail=p.nuccetelli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Patrizia
+sn: Nuccetelli
+cn: Patrizia Nuccetelli
+mail: p.nuccetelli@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Raffaele Antonuccio,mail=r.antonuccio@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Raffaele 
+sn: Antonuccio
+cn: Raffaele Antonuccio
+mail: r.antonuccio@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Rita Tucci,mail=r.tucci@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Rita
+sn: Tucci
+cn: Rita Tucci
+mail: r.tucci@iccu.sbn.it
+modifytimestamp: 49bf638c
+
+dn: cn=Roberta Rizzoni,mail=r.rizzoni@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Roberta 
+sn: Rizzoni
+cn: Roberta Rizzoni
+mail: r.rizzoni@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Roberto Mauro,mail=r.mauro@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Roberto 
+sn: Mauro
+cn: Roberto Mauro
+mail: r.mauro@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Rosanna Mancini,mail=r.mancini@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Rosanna 
+sn: Mancini
+cn: Rosanna Mancini
+mail: r.mancini@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Rosaria Boccadifuoco,mail=r.boccadifuoco@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Rosaria 
+sn: Boccadifuoco
+cn: Rosaria Boccadifuoco
+mail: r.boccadifuoco@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Rossella Modica,mail=r.modica@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Rossella 
+sn: Modica
+cn: Rossella Modica
+mail: r.modica@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Silviana Simonelli,mail=s.simonelli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Silviana 
+sn: Simonelli
+cn: Silviana Simonelli
+mail: s.simonelli@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Stefania Vita,mail=s.vita@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Stefania 
+sn: Vita
+cn: Stefania Vita
+mail: s.vita@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Tiziana Brunetti,mail=t.brunetti@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Tiziana 
+sn: Brunetti
+cn: Tiziana Brunetti
+mail: t.brunetti@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Vilma Gidaro,mail=v.gidaro@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Vilma 
+sn: Gidaro
+cn: Vilma Gidaro
+mail: v.gidaro@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Vitaliana Vitale,mail=v.vitale@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Vitaliana
+sn: Vitale
+cn: Vitaliana Vitale
+mail: v.vitale@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Vittoria Tola,mail=v.tola@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Vittoria 
+sn: Tola
+cn: Vittoria Tola
+mail: v.tola@iccu.sbn.it
+modifytimestamp: 0
+
+dn:: Y249RW56YSBNdWRhbsOyLG1haWw9ZS5tdWRhbm9AaWNjdS5zYm4uaXQ=
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Enza
+sn: Leoncini
+cn:: RW56YSBNdWRhbsOy
+mail: e.mudano@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Agata Procacci,mail=a.procacci@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Agata
+sn: Procacci
+cn: Agata Procacci
+mail: a.procacci@iccu.sbn.it
+modifytimestamp: 47f6167f
+
+dn: cn=Anna Grifoni,mail=a.grifoni@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Anna
+sn: Grifoni
+cn: Anna Grifoni
+mail: a.grifoni@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Biagio Antonio Tozzi,mail=b.tozzi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Biagio Antonio
+sn: Tozzi
+cn: Biagio Antonio Tozzi
+mail: b.tozzi@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Cinzia Parsi,mail=c.parsi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Cinzia
+sn: Parsi
+cn: Cinzia Parsi
+mail: c.parsi@iccu.sbn.it
+modifytimestamp: 4725e002
+
+dn: cn=Costanza Messana,mail=c.messana@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Costanza
+sn: Messana
+cn: Costanza Messana
+mail: c.messana@iccu.sbn.it
+modifytimestamp: 461369a4
+
+dn: cn=Elena Ravelli,mail=e.ravelli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Elena
+sn: Ravelli
+cn: Elena Ravelli
+mail: e.ravelli@iccu.sbn.it
+modifytimestamp: 461369a4
+
+dn: cn=Franco Matteucci,mail=f.matteucci@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Franco
+sn: Matteucci
+cn: Franco Matteucci
+mail: f.matteucci@iccu.sbn.it
+modifytimestamp: 4906da13
+
+dn: cn=Gabriella De Panicis,mail=g.depanicis@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Gabriella
+sn: De Panicis
+cn: Gabriella De Panicis
+mail: g.depanicis@iccu.sbn.it
+modifytimestamp: 461369a4
+
+dn: cn=Lea Salvi,mail=l.salvi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Lea
+sn: Salvi
+cn: Lea Salvi
+mail: l.salvi@iccu.sbn.it
+modifytimestamp: 4784cf49
+
+dn: cn=Loriana Carmina,mail=l.carmina@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Loriana
+sn: Carmina
+cn: Loriana Carmina
+mail: l.carmina@iccu.sbn.it
+modifytimestamp: 461369a4
+
+dn: cn=Maria Cristina Marsilii,mail=m.marsilii@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Cristina
+sn: Marsilii
+cn: Maria Cristina Marsilii
+mail: m.marsilii@iccu.sbn.it
+modifytimestamp: 4417ea00
+
+dn: cn=Maria Rosaria Servello,mail=r.servello@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Rosaria 
+sn: Servello 
+cn: Maria Rosaria Servello
+mail: r.servello@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Patrizia Monticelli,mail=p.monticelli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Patrizia
+sn: Monticelli
+cn: Patrizia Monticelli
+mail: p.monticelli@iccu.sbn.it
+modifytimestamp: 480f20a3
+
+dn: cn=Rosaria Boccadifuoco,mail=r.boccadifuoco@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Rosaria 
+sn: Boccadifuoco
+cn: Rosaria Boccadifuoco
+mail: r.boccadifuoco@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Rosaria Servello,mail=s.servello@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Rosaria 
+sn: Servello
+cn: Rosaria Servello
+mail: s.servello@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Simonetta Migliardi,mail=s.migliardi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Simonetta
+sn: Migliardi
+cn: Simonetta Migliardi
+mail: s.migliardi@iccu.sbn.it
+modifytimestamp: 482816f3
+
+dn: cn=Valeria Di Vita Cafasso,mail=v.divitacafasso@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Valeria
+sn: Di Vita Cafasso
+cn: Valeria Di Vita Cafasso
+mail: v.divitacafasso@iccu.sbn.it
+modifytimestamp: 4828007e
+
+dn: cn=Varo Vecchiarelli,mail=v.vecchiarelli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Vecchiarelli
+sn: Vecchiarelli
+cn: Varo Vecchiarelli
+mail: v.vecchiarelli@iccu.sbn.it
+modifytimestamp: 461369a4
+
+dn: cn=Maria Rosaria Servello,mail=s.servello@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Rosaria 
+sn: Servello 
+cn: Maria Rosaria Servello
+mail: s.servello@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Maria Rosaria Servello,mail=s.servello@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Rosaria 
+sn: Servello 
+cn: Maria Rosaria Servello
+mail: s.servello@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Claudia Leoncini,mail=c.leoncini@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Claudia
+sn: Leoncini
+cn: Claudia Leoncini
+mail: c.leoncini@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Cristina Magliano,mail=c.magliano@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Cristina
+sn: Magliano
+cn: Cristina Magliano
+mail: c.magliano@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Gabriella Contardi,mail=g.contardi@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Gabriella
+sn: Contardi
+cn: Gabriella Contardi
+mail: g.contardi@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Gisella De Caro,mail=g.decaro@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Gisella
+sn: De Caro
+cn: Gisella De Caro
+mail: g.decaro@iccu.sbn.it
+modifytimestamp: 0
+o: ss
+
+dn: cn=Giuliana Sgambati,mail=gi.sgambati@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Giuliana
+sn: Sgambati
+cn: Giuliana Sgambati
+mail: gi.sgambati@iccu.sbn.it
+modifytimestamp: 0
+telephoneNumber: 418
+title: Dottoressa
+ou: Galleria nazionale di arte moderna
+
+dn: cn=Marco Paoli,mail=m.paoli@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Marco
+sn: Paoli
+cn: Marco Paoli
+mail: m.paoli@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Massimo Menna,mail=m.menna@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Massimo 
+sn: Menna
+cn: Massimo Menna
+mail: m.menna@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Andrea Giuliano,mail=a.giuliano@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Andrea
+sn: Giuliano
+cn: Andrea Giuliano
+mail: a.giuliano@iccu.sbn.it
+modifytimestamp: 0
+
+dn: cn=Maria Rosaria Servello,mail=r.servello@iccu.sbn.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maria Rosaria 
+sn: Servello 
+cn: Maria Rosaria Servello
+mail: r.servello@iccu.sbn.it
+modifytimestamp: 0
+
+dn:: Y249RW56YSBNdWRhbsOyLG1haWw9ZS5tdWRhbm9AaWNjdS5zYm4uaXQ=
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Enza
+sn:: TXVkYW7Dsg==
+cn:: RW56YSBNdWRhbsOy
+mail: e.mudano@iccu.sbn.it
+modifytimestamp: 0
+
+dn:: Y249RW56YSBNdWRhbsOyLG1haWw9ZS5tdWRhbm9AaWNjdS5zYm4uaXQ=
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Enza
+sn:: TXVkYW7Dsg==
+cn:: RW56YSBNdWRhbsOy
+mail: e.mudano@iccu.sbn.it
+modifytimestamp: 47f6167f
+
+dn: cn=Andrea Giuliano,mail=andrea.giuliano@beniculturali.it
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+cn: Andrea Giuliano
+mail: andrea.giuliano@beniculturali.it
+modifytimestamp: 0
+

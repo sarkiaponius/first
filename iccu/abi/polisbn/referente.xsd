@@ -1,0 +1,29 @@
+<xsd:complexType name="OpenCmsReferente">
+<xsd:sequence>
+<xsd:element name="nome" type="OpenCmsString" minOccurs="1" maxOccurs="1"/>
+<xsd:element name="ruolo" type="OpenCmsString" minOccurs="1" maxOccurs="1"/>
+<xsd:element name="denominazione_ente" type="OpenCmsString" 
+minOccurs="0" maxOccurs="1"/>
+<xsd:element name="sede" type="OpenCmsString" minOccurs="0" maxOccurs="1"/>
+<xsd:element name="indirizzo" type="OpenCmsString" minOccurs="0" 
+maxOccurs="1"/>
+<xsd:element name="cap" type="OpenCmsString" minOccurs="0" maxOccurs="1"/>
+<xsd:element name="localita" type="OpenCmsString" minOccurs="0" 
+maxOccurs="1"/>
+<xsd:element name="comune" type="OpenCmsString" minOccurs="0" 
+maxOccurs="1"/>
+<xsd:element name="siglaprovincia" type="OpenCmsString" minOccurs="0" 
+maxOccurs="1"/>
+<xsd:element name="telefono" type="OpenCmsString" minOccurs="0" 
+maxOccurs="unbounded"/>
+<xsd:element name="fax" type="OpenCmsString" minOccurs="0" 
+maxOccurs="unbounded"/>
+<xsd:element name="email_referente" type="OpenCmsString" minOccurs="0" 
+maxOccurs="unbounded"/>
+<xsd:element name="altra_email" type="OpenCmsString" minOccurs="0" 
+maxOccurs="unbounded"/>
+<xsd:element name="note" type="OpenCmsHtml" minOccurs="0" maxOccurs="1"/>
+</xsd:sequence>
+<xsd:attribute name="language" type="OpenCmsLocale" use="optional" />
+</xsd:complexType>
+
