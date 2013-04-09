@@ -1,0 +1,13 @@
+#no comment
+#Mon Jun 06 16:44:19 CEST 2011
+directory-archivi=/home/DOMICCU/agiuliano/tmp/gg/
+#elenco-archivi=elenco-archivi.txt
+elenco-archivi=tutti-gli-istituti.txt
+directory-file-sql=/home/DOMICCU/agiuliano/tmp/gg/sql/
+directory-repertori=/home/DOMICCU/agiuliano/tmp/gg/soggetti-per-archivio
+tabella-soggettiGG = SoggettiGG
+tabella-complessiGG = GuidaGenerale
+tabella-soggetti-complessiGG = GuidaGeneraleSoggettiGG
+file-insert-soggettiGG = soggettiGG.sql
+file-insert-guidageneralesoggettiGG = guidaGeneraleSoggettiGG.sql
+file-log = /home/DOMICCU/agiuliano/tmp/gg/0.log

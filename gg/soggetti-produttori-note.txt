@@ -1,0 +1,26 @@
+importazione repertori
+
+- solo i record con /eac/condesc/identity/corphead[@type='soggettoProduttore']
+- //resourcerels/resourcerel@syskey è il codice GG del complesso
+
+Mappatura SoggettiGG:
+
+/eac/eacid => ID_SoggettoGG
+"ente" => TipoSoggetto
+//resourcerels.../archunit/unittitle => Denominazione
+//resourcerels.../archunit/unitdate@normal => diviso fra DataInizio e DataFine
+//resourcerels.../archunit/unitdate => DescrizioneEstremi
+//identity/corphead/part[@type='sede'] => Localita
+/eac/condesc/desc/bioghist => Storia (eliminando tag, ma <note> come parentesi aperte e chiuse)
+//identity/corphead/part[@type='ContestoArchivistico-istituzionale'] => Note (attenzione, ripetibile)
+
+Tenere da parte:
+
+//identity/corphead/part[@type='denominazione'] + //part[@type='integrazione'] => denominazione
+
+Mappatura GuidaGeneraleSoggettiGG:
+
+ID_GuidaGenerale deve contenere i GGxxxxxxxx
+ID_SoggettoGG deve contenere i SPxxxxxx
+
+Le coppie vanno ricavate dai file repertori sotto la condizione indicata all'inizio.
