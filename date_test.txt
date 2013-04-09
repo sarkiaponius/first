@@ -1,4 +1,8 @@
 # $Log$
+sarkiaponius 2013-04-09 18:29:59 +0200
+Ancora un tentativo, dopo aver impostato anche il filtro smudge
+sarkiaponius 2013-04-09 18:29:59 +0200
+Ancora un tentativo, dopo aver impostato anche il filtro smudge
 sarkiaponius 2013-04-09 18:27:37 +0200
 Ci riprovo, dovrei vedere allungarsi la lista dei messaggi di commit.
 sarkiaponius 2013-04-09 18:24:39 +0200
