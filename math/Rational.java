@@ -1,5 +1,3 @@
-package math;
-
 public class Rational
 {
 	int num, den;

@@ -42,8 +42,6 @@
  */
 import java.io.*;
 import java.util.*;
-import java.sql.*;
-
 import org.jdom.*;
 import org.jdom.input.*;
 import org.jdom.output.*;
