@@ -1,7 +1,7 @@
 /**
  * 
  */
-package it.sbn.iccu.abi.polisbn;
+package polisbn;
 
 import java.io.File;
 import java.io.FilenameFilter;

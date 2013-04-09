@@ -1,4 +1,4 @@
-package it.sbn.iccu.abi.polisbn;
+package polisbn;
 
 import it.sbn.iccu.abi.sql.DB;
 

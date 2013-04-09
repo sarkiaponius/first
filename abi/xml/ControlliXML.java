@@ -1,7 +1,7 @@
-package it.sbn.iccu.abi.xml;
-import it.sbn.iccu.abi.sql.DB;
-import it.sbn.iccu.abi.xml.xsd.AnagraficaType;
-import it.sbn.iccu.abi.xml.xsd.BibliotecaType;
+package xml;
+import sql.DB;
+import xml.DividiXML;
+import xsd.BibliotecaType;
 import it.sbn.iccu.abi.xml.xsd.Biblioteche;
 
 import java.io.File;

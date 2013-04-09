@@ -1,4 +1,4 @@
-package it.sbn.iccu.abi.polisbn;
+package polisbn;
 
 import java.io.*;
 import java.util.Iterator;

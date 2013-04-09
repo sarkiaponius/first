@@ -1,7 +1,7 @@
 /**
  * 
  */
-package it.sbn.iccu.abi.polisbn;
+package polisbn;
 
 /**
  * @author agiuliano
