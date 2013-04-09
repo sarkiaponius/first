@@ -1,6 +1,0 @@
-file-statistiche = stats.txt
-file-errori = errors.txt
-file-nosbn = nosbn.csv
-file-log = log.txt
-file-duplicate = duplicate.csv
-file-obsolete = obsolete.csv
