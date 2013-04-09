@@ -1,15 +1,4 @@
-package icar;
-/*
- * $Log: DividiSoggetti.java,v $
- * Revision 1.2  2012-10-10 12:54:52  agiuliano
- * Corretta la posizione del contatore cNum, incrementato ora solo
- * quando il file descrive un soggetto produttore.
- *
- * Revision 1.1  2012-10-10 12:52:03  agiuliano
- * Era DividiRepertori, rinominato in DividiSoggetti perché in effetti lo scopo è considerare solo i soggetti produttori e dividerli in base all'archivio di competenza.
- * Funziona su record di tipo "eac", considerando solo quelli con type="soggettoProduttore".
- *
- */
+
 
 
 import java.io.*;

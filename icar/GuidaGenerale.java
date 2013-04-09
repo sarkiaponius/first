@@ -1,4 +1,4 @@
-package icar;
+
 /*
  * $Log: GuidaGenerale.java,v $
  * Revision 1.8  2012-11-13 17:48:42  agiuliano
