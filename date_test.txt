@@ -1,4 +1,6 @@
 # $Log$
+sarkiaponius 2013-04-09 18:33:40 +0200
+Ho aggiunto mezza riga al file
 sarkiaponius 2013-04-09 18:32:12 +0200
 Altra prova ancora
 sarkiaponius 2013-04-09 18:29:59 +0200
