@@ -4,6 +4,13 @@
 <!-- Foglio di stile per la conversione di file 1.5 a file 1.6 -->
 
   <xsl:output method="xml" indent="yes" encoding="ISO-8859-1"/>
+
+<!--
+Template per l'elemento root che si limita a richiamare quello per ogni singola
+biblioteca. Inoltre valorizza l'elemento data-export se assente in input
+un dataExport
+-->
+
   <xsl:template match="/biblioteche">
     <xsl:element name="biblioteche">
       <xsl:if test="dataExport">
@@ -18,7 +25,11 @@
     </xsl:element>
   </xsl:template>
 
-  <!-- Richiama i vari template, oppure copia gli elementi -->
+<!-- 
+Richiama i template per i raggruppamenti principali, mentre per le
+specializzazioni introduce un apposito contenitore e copia in esso ogni
+specializzazione trovata
+-->
 
   <xsl:template match="//biblioteca">
     <xsl:element name="biblioteca">
@@ -37,7 +48,11 @@
     </xsl:element>
   </xsl:template>
 
-  <!-- Anagrafica, sono diversi template -->
+<!--
+Anagrafica: oltre a invocare diversi template, corregge i nomi di alcune
+date, eventualmente valorizzando la data-aggiornamento se assente, e
+copiando gli indirizzi che non richiedono trattamenti
+-->
 
   <xsl:template match="//anagrafica">
     <xsl:element name="anagrafica">
@@ -58,13 +73,12 @@
       <xsl:apply-templates select="codici"/>
       <xsl:copy-of select="indirizzo"/>
       <xsl:apply-templates select="contatti"/>
-      <!--<xsl:copy-of select="contatti"/>-->
       <xsl:apply-templates select="edificio"/>
       <xsl:apply-templates select="Istituzione"/>
     </xsl:element>
   </xsl:template>
 
-  <!-- Contenitori per i nomi -->
+<!-- I nomi ora vanno in appositi contenitori -->
 
   <xsl:template match="//nome">
     <xsl:element name="nomi">
@@ -86,7 +100,7 @@
     </xsl:element>
   </xsl:template>
 
-  <!-- Contenitori per i contatti -->
+<!-- Contenitori anche per i contatti -->
 
   <xsl:template match="//contatti">
     <xsl:element name="contatti">
@@ -107,7 +121,7 @@
     </xsl:element>
   </xsl:template>
 
-  <!-- Converte nomi in edificio -->
+<!-- In edificio vanno corretti alcuni nomi -->
 
   <xsl:template match="//edificio">
     <xsl:element name="edificio">
@@ -120,8 +134,9 @@
       </xsl:if>
 
 <!--
-Viene gestita la data di costruzione, copiando anche l'attributo "tipo" per
-distinguere anni e secoli. Dev'esserci un modo più semplice di farlo
+Sempre in edificio, viene gestita la data di costruzione, copiando anche
+l'attributo "tipo" per distinguere anni e secoli. Dev'esserci un modo
+più semplice di farlo
 -->
       <xsl:if test="dataCostruzione">
         <xsl:element name="data-costruzione">
@@ -137,8 +152,9 @@ distinguere anni e secoli. Dev'esserci un modo più semplice di farlo
   </xsl:template>
 
 <!-- 
-Converte nomi in Istituzone. Gestisce anche gli attributi "tipo" delle date,
-per distinguere anni e secoli
+Converte nomi in Istituzone, cominciando proprio con questo elemento.
+Gestisce anche gli attributi "tipo" delle date, per distinguere anni e
+secoli
  -->
 
   <xsl:template match="//Istituzione">
@@ -166,10 +182,37 @@ per distinguere anni e secoli
     </xsl:element>
   </xsl:template>
 
-	<!-- 
-	Cataloghi, basta un solo template, ma è complicato il caso dei materiali
-	nei cataloghi speciali e collettivi 
-	-->
+<!--
+Corregge il nome del codice ISIL e anche il suo valorei, ma solo se
+manca l'IT- e non è lungo 6
+-->
+
+  <xsl:template match="//codici">
+    <xsl:element name="codici">
+      <xsl:if test="not(string-length(iccu) = 9)">
+        <xsl:comment> *** CODICE ISIL ERRATO *** </xsl:comment>
+      </xsl:if>
+      <xsl:element name="isil">
+        <xsl:if test="not(starts-with(iccu, 'IT-'))">
+          <xsl:value-of select="concat('IT-', iccu)"/>
+        </xsl:if>
+        <xsl:if test="starts-with(iccu, 'IT-')">
+          <xsl:value-of select="iccu"/>
+        </xsl:if>
+      </xsl:element>
+      <xsl:copy-of select="acnp"/>
+      <xsl:copy-of select="rism"/>
+      <xsl:copy-of select="sbn"/>
+      <xsl:copy-of select="cei"/>
+      <xsl:copy-of select="cmbs"/>
+    </xsl:element>
+  </xsl:template>
+
+<!-- 
+Cataloghi, basta un solo template, ma è complicato il caso dei materiali
+nei cataloghi speciali e collettivi, in cui le forme devono ora essere
+un sottoelemento di ciascun materiale, che prima non era ripetibile
+-->
 
   <xsl:template match="//cataloghi">
     <xsl:element name="cataloghi">
@@ -185,9 +228,23 @@ per distinguere anni e secoli
           <xsl:for-each select="catalogo-speciale">
 						<xsl:element name="catalogo-speciale">
 							<xsl:copy-of select="nome"/>
+
+<!--
+Se c'è il materiale, sebbene sia uno solo, si deve creare un contenitore
+di materiali, creare in esso un materiale e copiare in quest'ultimo sia
+le forme che gli la tipologia
+-->
+
 							<xsl:if test="materiale">
 								<xsl:element name="materiali">
 									<xsl:for-each select="materiale">
+
+<!--
+Si crea il nuovo tipo di materiale. Il nome è copiato dal contenuto del
+vecchio tipo di materiale, e in più si eliminano eventuali asterischi
+finali, che nella nuova gestione non hanno più senso
+-->
+
 									<xsl:element name="materiale">
 										<xsl:attribute name="nome">
 											<xsl:if test="not(contains(., '*'))">
@@ -197,6 +254,11 @@ per distinguere anni e secoli
 												<xsl:copy-of select="substring-before(.,'*')"/>
 											</xsl:if>
 										</xsl:attribute>
+
+<!--
+Dal livello superiore si portano le forme dentro il singolo materiale
+-->
+
 										<xsl:copy-of select="../forme"/>
 									</xsl:element>
 									</xsl:for-each>
@@ -206,6 +268,9 @@ per distinguere anni e secoli
           </xsl:for-each>
         </xsl:element>
       </xsl:if>
+
+<!-- Collettivi: si procede quasi come per gli speciali -->
+
       <xsl:if test="catalogo-collettivo">
         <xsl:element name="cataloghi-collettivi">
           <xsl:for-each select="catalogo-collettivo">
@@ -235,7 +300,9 @@ per distinguere anni e secoli
     </xsl:element>
   </xsl:template>
 
-  <!-- Patrimonio, basta un solo template, ma c'è da gestire gli asterischi -->
+<!--
+Patrimonio, basta un solo template, ma c'è da gestire gli asterischi
+-->
 
 	<xsl:template match="//patrimonio">
     <xsl:element name="patrimonio">
@@ -288,31 +355,6 @@ per distinguere anni e secoli
     </xsl:element>
   </xsl:template>
 
-  <!--
-	I primi due dei prossimi template correggono il famoso errore 
-  "Istituzione". Il successivo corregge i codici ISIL, ma solo
-  se mancanti dell'IT- e non lunghi 6. Non è un gran test.
--->
-  <xsl:template match="//codici">
-    <xsl:element name="codici">
-      <xsl:if test="not(string-length(iccu) = 9)">
-        <xsl:comment> *** CODICE ISIL ERRATO *** </xsl:comment>
-      </xsl:if>
-      <xsl:element name="isil">
-        <xsl:if test="not(starts-with(iccu, 'IT-'))">
-          <xsl:value-of select="concat('IT-', iccu)"/>
-        </xsl:if>
-        <xsl:if test="starts-with(iccu, 'IT-')">
-          <xsl:value-of select="iccu"/>
-        </xsl:if>
-      </xsl:element>
-      <xsl:copy-of select="acnp"/>
-      <xsl:copy-of select="rism"/>
-      <xsl:copy-of select="sbn"/>
-      <xsl:copy-of select="cei"/>
-      <xsl:copy-of select="cmbs"/>
-    </xsl:element>
-  </xsl:template>
 <!--
 Servizi, qui servono diversi template e va gestito l'attributo "attivo"
 -->
